@@ -126,30 +126,30 @@
         "Skins.Heretic.Alt1"
       ]
     },
-    "Seeker": {
+        "Seeker": {
       "nick": "Seeker",
       "unlocks": [
-        "Skills.Seeker.Sojourn",
-        "Skills.Seeker.Meditate",
-        "Skills.Seeker.Whirlwind",
+        "Skills.Seeker.SoulSpiral",
+        "Skills.Seeker.Reprieve",
+        "Skills.Seeker.PalmBlast",
         "Skins.Seeker.Alt1"
       ]
     },
     "FalseSon": {
       "nick": "FalseSon",
       "unlocks": [
-        "Skills.FalseSon.Laser",
-        "Skills.FalseSon.Cluster",
-        "Skills.FalseSon.Meteor",
+        "Skills.FalseSon.LunarStakes",
+        "Skills.FalseSon.MeridiansWill",
+        "Skills.FalseSon.LaserBurst",
         "Skins.FalseSon.Alt1"
       ]
     },
     "Chef": {
       "nick": "Chef",
       "unlocks": [
-        "Skills.Chef.Dice",
-        "Skills.Chef.Roll",
-        "Skills.Chef.Flambe",
+        "Skills.Chef.IceBox",
+        "Skills.Chef.OilSpill",
+        "Skills.Chef.YesChef",
         "Skins.Chef.Alt1"
       ]
     }
@@ -382,16 +382,16 @@
     "HereticSquall",
     "HereticVisions",
     "SeekerClearGameMonsoon",
-    "SeekerSojourn",
-    "SeekerMeditate",
-    "SeekerWhirlwind",
-    "FalseSonClearGameMonsoon",
-    "FalseSonLaser",
-    "FalseSonCluster",
-    "FalseSonMeteor",
+    "SeekerAirborneSouls",
+    "SeekerScorchedEarth",
+    "SeekerClearMind",
+        "FalseSonClearGameMonsoon",
+    "FalseSonLunarStakes",
+    "FalseSonMeridiansWill",
+    "FalseSonLaserBurst",
     "ChefClearGameMonsoon",
-    "ChefDice",
-    "ChefRoll",
-    "ChefFlambe"
+    "ChefIceBox",
+    "ChefOilSpill",
+    "ChefYesChef"
   ]
 }
